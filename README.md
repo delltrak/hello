@@ -1,3 +1,3 @@
 # Say Hello, everyday 
-Olá Github Copilot :)
--dito hoje ás `07:18`
+Olá Github Copilot :) 
+- dito hoje ás `07:18`
